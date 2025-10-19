@@ -45,6 +45,3 @@ Thumbs.db
 # Cache
 .cache/
 *.cache
-
-# Models
-models/

@@ -1,6 +1,20 @@
-# Background Remover
+<div align="center">
+
+# 🎨 Background Remover
+
+[![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![rembg](https://img.shields.io/badge/rembg-AI%20Model-orange)](https://github.com/danielgatis/rembg)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Author](https://img.shields.io/badge/Author-Hari%20Prasath%20N%20T-blue?style=flat&logo=github)](https://github.com/zogratis17)
 
 A simple and elegant Streamlit web application that removes backgrounds from images using AI-powered background removal.
+
+**Created by:** [Hari Prasath N T](https://github.com/zogratis17)
+
+</div>
+
+---
 
 ## Features
 
@@ -116,10 +130,19 @@ remove-bg/
 
 MIT License - Feel free to use this project for personal and commercial purposes.
 
-## Author
+---
 
-Created with ❤️
+<div align="center">
+
+### 🚀 Built with passion by **Hari Prasath N T**
+
+[![GitHub](https://img.shields.io/badge/GitHub-@zogratis17-black?logo=github)](https://github.com/zogratis17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com)
+
+**If you found this project helpful, please consider giving it a ⭐ star!**
 
 ---
 
-Enjoy removing backgrounds! 🎨
+*Enjoy removing backgrounds! 🎨*
+
+</div>

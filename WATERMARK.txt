@@ -1,0 +1,41 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              🎨  BACKGROUND REMOVER  🎨                     ║
+║                                                              ║
+║  An AI-Powered Image Background Removal Application        ║
+║                                                              ║
+║              ✨ Created by Hari Prasath N T ✨             ║
+║                                                              ║
+║  GitHub: https://github.com/zogratis17/remove-bg           ║
+║  Author: https://github.com/zogratis17                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+PROJECT DETAILS:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+• Framework: Streamlit (Web Application)
+• AI Model: U2-Net (rembg library)
+• Language: Python 3.8+
+• Purpose: Remove image backgrounds with AI
+
+FEATURES:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ Image Upload (JPG, PNG, BMP, GIF)
+✅ AI-Powered Background Removal
+✅ Multiple Background Colors (Transparent, White, Black, Custom)
+✅ Side-by-Side Image Preview
+✅ Easy Download with One Click
+✅ Pre-downloaded AI Model (No Wait Time)
+
+QUICK START:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Clone: git clone https://github.com/zogratis17/remove-bg.git
+2. Setup: pip install -r requirements.txt
+3. Run: streamlit run app.py
+4. Done! Open http://localhost:8501
+
+CREATED WITH ❤️ BY HARI PRASATH N T
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
